@@ -6,4 +6,4 @@ The user can sort each column by clicking on the table header, as well as clicki
 
 CRUD operations are fully functional as well.
 
-Technologies and lanugages used in this application include C#, .Net Winforms, Entity Framework Core, and Microsoft SQL Server.
+Technologies and lanugages used in this application include C#, .Net Core 3.1, Winforms, Entity Framework Core, and Microsoft SQL Server.
